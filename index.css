@@ -82,7 +82,7 @@ button {
   background-color: var(--header);
 
   font-size: 15px;
-  font-family: LexendDeca;
+  font-family: "Lexend Deca", sans-serif;
 }
 
 button:hover {
